@@ -1,0 +1,1 @@
+C:\Users\Melek2\AndroidStudioProjects\OpenCVtest\OpenCV\build\intermediates\cxx\Debug\1j4p1j29\obj\arm64-v8a

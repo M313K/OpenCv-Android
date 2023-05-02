@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1717845869
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 980930606
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -592461764
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1960202682
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2054100673
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -317713928
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 796831084
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\build\\intermediates\\cxx\\Debug\\4z3j6q5r\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\build\\intermediates\\cxx\\Debug\\4z3j6q5r\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1149706484
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Melek2\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\build\\intermediates\\cxx\\Debug\\4z3j6q5r\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\build\\intermediates\\cxx\\Debug\\4z3j6q5r\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1695313131
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1407594018
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1741754422
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\.cxx\\Debug\\4z3j6q5r\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 683204600
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Melek2\\AndroidStudioProjects\\OpenCVtest2\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -615139790
+  }
+]
